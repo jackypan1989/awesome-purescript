@@ -25,17 +25,19 @@ A collection of awesome things regarding [PureScript](http://purescript.com).
 - [purescript-react-webpack-boilerplate](https://github.com/jasonzoladz/purescript-react-webpack-boilerplate)
 - [react-hot-purescript-boilerplate](https://github.com/nfjinjing/react-hot-purescript-boilerplate)
 
-## Frontend-related (react, ng, vue, elm, ...etc)
+## Frontend
+- [purescript-halogen](https://github.com/slamdata/purescript-halogen)
 - [purescript-pux](https://www.purescript-pux.org)
-- [purescript-react](https://github.com/purescript-contrib/purescript-react)
+- [purescript-thermite](https://github.com/paf31/purescript-thermite)
 - [purescript-redux](https://github.com/brakmic/purescript-redux)
-- [purescript-angular](https://github.com/ethul/purescript-angular)
-- [purescript-vue](https://github.com/ruicc/purescript-vue)
-- [purescript-signal](https://github.com/bodil/purescript-signal)
-- [purescript-elm](https://github.com/rgrempel/purescript-elm)
 
-## Asynchronous Lib
+## Async
 - [purescript-aff](https://github.com/slamdata/purescript-aff)
+- [purescript-behaviors](https://github.com/paf31/purescript-behaviors)
+- [purescript-signal](https://github.com/bodil/purescript-signal)
+- [purescript-coroutines](https://github.com/purescript-contrib/purescript-coroutines)
+
+## AJAX
 - [purescript-affjax](https://github.com/slamdata/purescript-aff)
 
 ## Backend-related
